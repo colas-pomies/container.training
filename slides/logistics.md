@@ -4,9 +4,9 @@
 
 - Hello! We are:
 
-   - .emoji[👩🏻‍🏫] Guilhem Lettron ([@guilhem](https://github.com/guilhem))
+   - Guilhem Lettron ([@guilhem](https://github.com/guilhem))
 
-   - .emoji[👨🏾‍🎓] Openska ([@openska](https://twitter.com/openska))
+   - Openska ([@openska](https://twitter.com/openska))
 
  <!-- .dummy[
 
