@@ -242,7 +242,7 @@ spec:
       labels:
         component: scheduler
         tier: control-plane
-      name: stork-scheduler
+        name: stork-scheduler
     spec:
       containers:
       - command:
